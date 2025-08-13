@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    background-image: url(https://www.codewithrandom.com/wp-content/uploads/2023/04/Copy-of-codewithrandom11.png);
+     color: white;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: scroll;
+
+}
+
+
+.test1{
+    color: white;
+    height: 300;
+    
+
+}
+#test2{
+    color: rgb(0, 0, 255);
+}
