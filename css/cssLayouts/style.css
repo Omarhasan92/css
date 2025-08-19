@@ -1,0 +1,30 @@
+.test1 {
+    display: inline-block;
+    background-color: yellow;
+    border: solid;
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: top;
+    margin-top: 0px;
+   
+    
+}
+.test2 {
+
+    display: inline-block;
+    background-color: yellow;
+    border: solid;
+    height: 200px;
+    width: 200px;
+    vertical-align: top;
+    
+    
+    
+    margin-top: 0px;
+
+
+}
+h1 {
+margin-bottom: 0;
+}
